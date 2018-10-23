@@ -1,10 +1,15 @@
-# Ros-D3D
-rules of survival
+I am making available to SOURCE for you to help me with the BUGS.
 
-how to compile:
-https://github.com/DrNseven/Ros-D3D/blob/master/howtocompile
+Example: Box is not aligned with the enemy.
 
-minhook:
-https://github.com/TsudaKageyu/minhook
+BOX (ok)
+LINE (ok)
+AIMBOT (OK)
+DISTANCE (need to improve)
+BOX ALIGNMENT (Need to Repair)
+CHAMS (Stops Working)
 
-![alt tag](https://github.com/DrNseven/Ros-D3D/blob/master/ros.jpg)
+I recommend installing
+- Visual Studio 2017
+- DXSDK Microsoft DirectX SDK (June 2010) [Resolves error d3dx9.h]
+- Microsoft Visual C++ 2017 Redistributable
