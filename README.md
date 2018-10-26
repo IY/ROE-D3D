@@ -1,6 +1,3 @@
-I am making available to SOURCE for you to help me with the BUGS.
-
-Example: Box is not aligned with the enemy.
 
 BOX (ok)
 LINE (ok)
